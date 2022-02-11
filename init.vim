@@ -6,7 +6,9 @@ set nocompatible
 
 " required
 filetype on 
+
 set listchars=tab:\|\  "agrega lineas verticales para cada espacio de identacion
+
 set list "agrega lineas verticales para cada espacio de identacion
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
