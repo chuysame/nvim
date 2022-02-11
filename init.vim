@@ -1,6 +1,8 @@
-"change the working directory automaticall
+"Change the working directory automaticall
 set autochdir
-set nocompatible              " be iMproved, required
+
+" be iMproved, required
+set nocompatible 
 filetype on                  " required
 set listchars=tab:\|\  "agrega lineas verticales para cada espacio de identacion
 set list "agrega lineas verticales para cada espacio de identacion
