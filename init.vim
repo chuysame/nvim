@@ -1,3 +1,4 @@
+"change the working directory automaticall
 set autochdir
 set nocompatible              " be iMproved, required
 filetype on                  " required
